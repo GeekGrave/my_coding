@@ -1,0 +1,17 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "map": "cpp",
+        "ostream": "cpp",
+        "xiosbase": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "xhash": "cpp",
+        "xutility": "cpp",
+        "set": "cpp"
+    }
+}

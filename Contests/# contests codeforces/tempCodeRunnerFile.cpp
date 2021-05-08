@@ -1,0 +1,5 @@
+#define n1 find("2")
+// #define n2 find("20")
+// #define n3 find("202")
+// #define n4 find("020")
+// #define n5 find("0")
